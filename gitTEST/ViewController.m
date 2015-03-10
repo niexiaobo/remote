@@ -17,6 +17,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    NSString *git=[[NSString alloc]init];
+    git=@"hshdhh";
+    NSLog(@"%@",git);
+
+    
 }
 
 - (void)didReceiveMemoryWarning {
