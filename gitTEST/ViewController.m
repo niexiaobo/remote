@@ -22,7 +22,9 @@
     git=@"hshdhh";
     NSLog(@"%@",git);
     
-    
+    NSString *addgit3=[[NSString alloc]init];
+    addgit3=@"hshdhh";
+    NSLog(@"%@",addgit3);
     
     NSString *git2=[[NSString alloc]init];
     git2=@"hshdhh";
